@@ -17,16 +17,13 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=FECC00&height=300&section=header&text=Welcome%20To%20My%20Github%20&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#1E73BE&height=300&section=header&text=Welcome%20To%20My%20Github%20&fontSize=50&fontColor=ffffff)
   
-  <hr>
+<hr>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asd200df&show_icons=true&theme=gruvbox)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asd200df&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
-  
-<!-- [Top Langs] -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asd200df&show_icons=true&locale=en&layout=compact" alt="asd200df" /></p>
-<hr>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asd200df&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
