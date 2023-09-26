@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- solved.ac -->
+<!-- GitHub stats -->
 ![asd200df's GitHub stats](https://github-readme-stats.vercel.app/api?username=asd200df&show_icons=true&theme=tokyonight)  
 
-
+<!-- Solved.ac -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=youngdo66)](https://solved.ac/youngdo66)
 
 
 <!-- 주석 (template)
